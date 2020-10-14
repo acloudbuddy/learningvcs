@@ -8,3 +8,8 @@ class Child(Parent):
             return self.name2
 temp = Child("Bob")
 print ("%s %s"%(temp.name1,temp.name()))
+seddgfiuhsdggdsygf
+sdgkjhdshgbd
+sdkjhdshg
+ksjdghdsagh
+skdajhdsgfhb
